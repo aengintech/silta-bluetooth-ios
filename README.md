@@ -38,7 +38,7 @@ Swift:
  
  First, you need to have the SiltaManager.
 
- `let silta = SiltaBluetooth.getManager()` 
+ `let silta = SiltaBluetooth.getIManager()` 
 
  
  Then, delegate the SDK.
