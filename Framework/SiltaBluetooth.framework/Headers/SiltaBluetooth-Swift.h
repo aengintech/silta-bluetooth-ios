@@ -105,6 +105,7 @@ SWIFT_CLASS("_TtC14SiltaBluetooth9Bluetooth")
 @property (nonatomic, strong) NSNumber * __nullable powerLevel;
 @property (nonatomic, strong) NSNumber * __nullable RSSI;
 @property (nonatomic, copy) NSString * __nullable name;
+@property (nonatomic, copy) NSString * __null_unspecified time;
 - (NSInteger)accuracy;
 - (BOOL)isEqual:(id __nullable)object;
 @property (nonatomic, readonly) NSUInteger hash;
@@ -159,6 +160,9 @@ SWIFT_PROTOCOL("_TtP14SiltaBluetooth22SiltaBluetoothDelegate_")
 ///
 /// \param ble Bluetooth
 - (void)bluetoothExecuteCommandFailure:(Bluetooth * __nonnull)ble;
+
+/// 藍芽裝置已開啟
+- (void)bluetoothabled;
 
 /// 藍芽裝置未開啟
 - (void)bluetoothDisabled;

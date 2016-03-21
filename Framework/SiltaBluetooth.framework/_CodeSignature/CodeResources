@@ -4,9 +4,53 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/GAI.h</key>
+		<data>
+		UuSNXPo/6wEz7IQddrXIy76jBkw=
+		</data>
+		<key>Headers/GAIDictionaryBuilder.h</key>
+		<data>
+		sHp/fkSjj7SzDpHBAkRhBr5YhM4=
+		</data>
+		<key>Headers/GAIEcommerceFields.h</key>
+		<data>
+		xVfXWA8zyfM3QrtVhKISwtD+F1w=
+		</data>
+		<key>Headers/GAIEcommerceProduct.h</key>
+		<data>
+		mqQ5q34V/FWSC9OkD8mEH5VEX/Q=
+		</data>
+		<key>Headers/GAIEcommerceProductAction.h</key>
+		<data>
+		3XfX+NuWZ8vmIoDPei8SDTpx89Q=
+		</data>
+		<key>Headers/GAIEcommercePromotion.h</key>
+		<data>
+		iuTHqBkHkxoVIXKPP65uHX8YZm8=
+		</data>
+		<key>Headers/GAIFields.h</key>
+		<data>
+		LLJ7LFi0nJ/gR1U9r+L3trY2ea8=
+		</data>
+		<key>Headers/GAILogger.h</key>
+		<data>
+		nOpJHoT7LPVo/OHSCrrUjB+gpbI=
+		</data>
+		<key>Headers/GAITrackedViewController.h</key>
+		<data>
+		27Vx25gXTUsOVIKRVUiUFL1k+sk=
+		</data>
+		<key>Headers/GAITracker.h</key>
+		<data>
+		LDXEnQhyCGF4gDFo2/rJF1eKUwY=
+		</data>
 		<key>Headers/SiltaBluetooth-Swift.h</key>
 		<data>
-		pqCBy5gQL5xlJzMu1hr64NUEbdo=
+		wwzS66vFDBM886xu6567NL3BiB0=
+		</data>
+		<key>Headers/SiltaBluetooth.h</key>
+		<data>
+		5EB9JmDduOJ8qgylc80Utb7ftuY=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -14,138 +58,94 @@
 		</data>
 		<key>Modules/SiltaBluetooth.swiftmodule/arm.swiftdoc</key>
 		<data>
-		o90z69VywOiDQQM5MZCvJlhBeF8=
+		NXIo0mYAhDsxTEMnj/drjLYKSqs=
 		</data>
 		<key>Modules/SiltaBluetooth.swiftmodule/arm.swiftmodule</key>
 		<data>
-		mniqzCrKq999sThwfPXEjv/ZWbw=
+		3gjNHXBIb1+EkuEj1ElyPYmqkFA=
 		</data>
 		<key>Modules/SiltaBluetooth.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		0bX57taGJlnhrWO0+hV3Q/z81Os=
+		rx3MU6lty/dyRnAvR7CFIqlfRtI=
 		</data>
 		<key>Modules/SiltaBluetooth.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		ezmQ2c6I1UeySzHt5+RQ8y94d+0=
+		F2/Yrgi+nsV6zB98cXs35jsJBzo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		wb/zBVk8PHGe2As9SiWrtb0ZbBU=
-		</data>
-		<key>PrivateHeaders/GAI.h</key>
-		<data>
-		UuSNXPo/6wEz7IQddrXIy76jBkw=
-		</data>
-		<key>PrivateHeaders/GAIDictionaryBuilder.h</key>
-		<data>
-		sHp/fkSjj7SzDpHBAkRhBr5YhM4=
-		</data>
-		<key>PrivateHeaders/GAIEcommerceFields.h</key>
-		<data>
-		xVfXWA8zyfM3QrtVhKISwtD+F1w=
-		</data>
-		<key>PrivateHeaders/GAIEcommerceProduct.h</key>
-		<data>
-		mqQ5q34V/FWSC9OkD8mEH5VEX/Q=
-		</data>
-		<key>PrivateHeaders/GAIEcommerceProductAction.h</key>
-		<data>
-		3XfX+NuWZ8vmIoDPei8SDTpx89Q=
-		</data>
-		<key>PrivateHeaders/GAIEcommercePromotion.h</key>
-		<data>
-		iuTHqBkHkxoVIXKPP65uHX8YZm8=
-		</data>
-		<key>PrivateHeaders/GAIFields.h</key>
-		<data>
-		LLJ7LFi0nJ/gR1U9r+L3trY2ea8=
-		</data>
-		<key>PrivateHeaders/GAILogger.h</key>
-		<data>
-		nOpJHoT7LPVo/OHSCrrUjB+gpbI=
-		</data>
-		<key>PrivateHeaders/GAITrackedViewController.h</key>
-		<data>
-		27Vx25gXTUsOVIKRVUiUFL1k+sk=
-		</data>
-		<key>PrivateHeaders/GAITracker.h</key>
-		<data>
-		LDXEnQhyCGF4gDFo2/rJF1eKUwY=
-		</data>
-		<key>PrivateHeaders/SiltaBluetooth.h</key>
-		<data>
-		jvqUcV7cuQGiQJu4WLTXXoUTG4c=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/GAI.h</key>
+		<data>
+		UuSNXPo/6wEz7IQddrXIy76jBkw=
+		</data>
+		<key>Headers/GAIDictionaryBuilder.h</key>
+		<data>
+		sHp/fkSjj7SzDpHBAkRhBr5YhM4=
+		</data>
+		<key>Headers/GAIEcommerceFields.h</key>
+		<data>
+		xVfXWA8zyfM3QrtVhKISwtD+F1w=
+		</data>
+		<key>Headers/GAIEcommerceProduct.h</key>
+		<data>
+		mqQ5q34V/FWSC9OkD8mEH5VEX/Q=
+		</data>
+		<key>Headers/GAIEcommerceProductAction.h</key>
+		<data>
+		3XfX+NuWZ8vmIoDPei8SDTpx89Q=
+		</data>
+		<key>Headers/GAIEcommercePromotion.h</key>
+		<data>
+		iuTHqBkHkxoVIXKPP65uHX8YZm8=
+		</data>
+		<key>Headers/GAIFields.h</key>
+		<data>
+		LLJ7LFi0nJ/gR1U9r+L3trY2ea8=
+		</data>
+		<key>Headers/GAILogger.h</key>
+		<data>
+		nOpJHoT7LPVo/OHSCrrUjB+gpbI=
+		</data>
+		<key>Headers/GAITrackedViewController.h</key>
+		<data>
+		27Vx25gXTUsOVIKRVUiUFL1k+sk=
+		</data>
+		<key>Headers/GAITracker.h</key>
+		<data>
+		LDXEnQhyCGF4gDFo2/rJF1eKUwY=
+		</data>
 		<key>Headers/SiltaBluetooth-Swift.h</key>
 		<data>
-		pqCBy5gQL5xlJzMu1hr64NUEbdo=
+		wwzS66vFDBM886xu6567NL3BiB0=
+		</data>
+		<key>Headers/SiltaBluetooth.h</key>
+		<data>
+		5EB9JmDduOJ8qgylc80Utb7ftuY=
 		</data>
 		<key>Modules/SiltaBluetooth.swiftmodule/arm.swiftdoc</key>
 		<data>
-		o90z69VywOiDQQM5MZCvJlhBeF8=
+		NXIo0mYAhDsxTEMnj/drjLYKSqs=
 		</data>
 		<key>Modules/SiltaBluetooth.swiftmodule/arm.swiftmodule</key>
 		<data>
-		mniqzCrKq999sThwfPXEjv/ZWbw=
+		3gjNHXBIb1+EkuEj1ElyPYmqkFA=
 		</data>
 		<key>Modules/SiltaBluetooth.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		0bX57taGJlnhrWO0+hV3Q/z81Os=
+		rx3MU6lty/dyRnAvR7CFIqlfRtI=
 		</data>
 		<key>Modules/SiltaBluetooth.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		ezmQ2c6I1UeySzHt5+RQ8y94d+0=
+		F2/Yrgi+nsV6zB98cXs35jsJBzo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		wb/zBVk8PHGe2As9SiWrtb0ZbBU=
-		</data>
-		<key>PrivateHeaders/GAI.h</key>
-		<data>
-		UuSNXPo/6wEz7IQddrXIy76jBkw=
-		</data>
-		<key>PrivateHeaders/GAIDictionaryBuilder.h</key>
-		<data>
-		sHp/fkSjj7SzDpHBAkRhBr5YhM4=
-		</data>
-		<key>PrivateHeaders/GAIEcommerceFields.h</key>
-		<data>
-		xVfXWA8zyfM3QrtVhKISwtD+F1w=
-		</data>
-		<key>PrivateHeaders/GAIEcommerceProduct.h</key>
-		<data>
-		mqQ5q34V/FWSC9OkD8mEH5VEX/Q=
-		</data>
-		<key>PrivateHeaders/GAIEcommerceProductAction.h</key>
-		<data>
-		3XfX+NuWZ8vmIoDPei8SDTpx89Q=
-		</data>
-		<key>PrivateHeaders/GAIEcommercePromotion.h</key>
-		<data>
-		iuTHqBkHkxoVIXKPP65uHX8YZm8=
-		</data>
-		<key>PrivateHeaders/GAIFields.h</key>
-		<data>
-		LLJ7LFi0nJ/gR1U9r+L3trY2ea8=
-		</data>
-		<key>PrivateHeaders/GAILogger.h</key>
-		<data>
-		nOpJHoT7LPVo/OHSCrrUjB+gpbI=
-		</data>
-		<key>PrivateHeaders/GAITrackedViewController.h</key>
-		<data>
-		27Vx25gXTUsOVIKRVUiUFL1k+sk=
-		</data>
-		<key>PrivateHeaders/GAITracker.h</key>
-		<data>
-		LDXEnQhyCGF4gDFo2/rJF1eKUwY=
-		</data>
-		<key>PrivateHeaders/SiltaBluetooth.h</key>
-		<data>
-		jvqUcV7cuQGiQJu4WLTXXoUTG4c=
 		</data>
 	</dict>
 	<key>rules</key>

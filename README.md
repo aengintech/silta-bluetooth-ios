@@ -25,7 +25,7 @@ Availability IOS (8.0 and later)
 
 1) You can install our SDK via CocoaPods.
 
-`pod 'SiltaBluetooth', '~> 0.1.9'`
+`pod 'SiltaBluetooth', '~> 0.2.0'`
 
 2) Or, you can simply download “SiltaBluetooth.framework."
 
